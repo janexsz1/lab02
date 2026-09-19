@@ -6,5 +6,6 @@ int main() {
 	// hghghggh
 	cout << "master" << endl;
 	// зміни через інтерфейс
+	// feature
 	return 0;
 }
