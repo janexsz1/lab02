@@ -5,5 +5,6 @@ int main() {
 	cout << "change" << endl;
 	// hghghggh
 	cout << "master" << endl;
+	// зміни через інтерфейс
 	return 0;
 }
